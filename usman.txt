@@ -1,0 +1,54 @@
+Name   Muhammad Usma 
+Roll No   36
+Class Bscs 6th semester
+   QNo 1:- How to launch swi-prolog on    command line?
+Ans:swipl --help
+swipl --version
+swipl --arch
+swipl --dump-runtime-variables
+Reference..http://www.swi-prolog.org/pldoc/man?section=cmdline
+
+QNo 2:- what is the extension of prolog knowledge base?
+Ans:- .pl is the extension
+
+Qno 3:- How to load a knowledge  base in prolog?
+Ans:- Download the knowledge bases kb1.pl, kb2.pl, and kb3.pl (which are the knowledge bases). To download, right click on the following links and choose 'save link to disk'.
+
+Reference...http://cs.union.edu/~striegnk/courses/esslli04prolog/practical.day1.php?s=practical.day1.node1
+
+Qno 4:- How to exit a prolog session?
+Ans:- halt .through this statement we  can exit
+
+Qno5:- what is an atom?
+Ans :- An atom is a general-purpose name with no inherent meaning. Composed of a sequence of characters that is parsed by the Prolog reader as a single unit.
+Recerence ...
+Google.com
+
+Qno6:- what is term?
+Ans:- All Prolog data structures are called terms. A term is either:
+
+A constant, which can be either an atom or a number.
+A variable.
+A compound term.
+Reference..
+http://www.dai.ed.ac.uk/groups/ssp/bookpages/quickprolog/node5.html
+Qno7:- what is functor?
+Ans:- In Prolog, the word functor is used to refer to the atom at the start of a structure..
+Reference...http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/functor.html
+
+Qno8:- what are the complex terms?
+Ans:- Complex terms are build out of a functor followed by a sequence of arguments.
+Reference...http://cs.union.edu/~striegnk/learn-prolog-now/html/node12.html
+
+Qno9:-what is predicate?
+Ans:- A predicate with name Pred and N arguments is denoted by Pred/N, which is called a predicate indicator.
+Reference...https://www.metalevel.at/prolog/concepts
+
+Qno10:-what is arity of predicate?
+Ans:-N is called the arity of the predicate.
+Reference...https://www.metalevel.at/prolog/concepts
+
+Qno11:- what is unification?
+Ans:- The way in which Prolog matches two terms is called unification.
+Reference ...http://www.dai.ed.ac.uk/groups/ssp/bookpages/quickprolog/node12.html
+
